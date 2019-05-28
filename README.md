@@ -1,5 +1,7 @@
 # Build a Small Business Website
 
+Due tomorrow!
+
 ## Directions
 
 Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
@@ -40,6 +42,6 @@ The following plants are in stock. They should each be listed with their image a
 
 ### Location and Hours
 
-The nursery is located at: 4400 Virginia Parkway, Cedarville, NC, 27165.
+The nursery is located at: 4400 Virginia Parkway, Spruceville, NC, 27165.
 
 Its hours are 9 AM - 7 PM Monday - Friday, 7 AM - 7 PM on Saturday, and 1 PM - 7 PM on Sunday.
